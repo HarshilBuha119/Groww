@@ -10,7 +10,7 @@ import { WatchlistContext } from "../contexts/WatchListContext"
 import AddToWatchlistModal from "../components/AddToWatchlistModal"
 import axios from "axios"
 
-const FINNHUB_API_KEY = "cuul0fpr01qk88s9fc0gcuul0fpr01qk88s9fc10"
+const FINNHUB_API_KEY = "Your api key of finnhub.com"
 const screenWidth = Dimensions.get("window").width
 
 const ProductScreen = ({ route, navigation }) => {
