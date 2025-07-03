@@ -17,7 +17,7 @@ import StockCard from '../components/StockCard';
 import SectionHeader from '../components/SectionHeader';
 import Icon from 'react-native-vector-icons/Ionicons';
 
-const FINNHUB_API_KEY = 'cuul0fpr01qk88s9fc0gcuul0fpr01qk88s9fc10';
+const FINNHUB_API_KEY = 'abcdxyz';
 const CACHE_KEY = 'explore_data';
 const CACHE_EXPIRY = 5 * 60 * 1000;
 
